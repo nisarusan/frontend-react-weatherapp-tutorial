@@ -2,6 +2,7 @@ import React from 'react';
 import './TodayTab.css';
 
 function TodayTab() {
+
 	return(
 		<div className="tab-wrapper">
 			<div className="chart">
